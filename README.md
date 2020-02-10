@@ -1,2 +1,0 @@
-# condtionalRenderingPractice
-Created with CodeSandbox
